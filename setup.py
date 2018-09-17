@@ -17,7 +17,7 @@ DESCRIPTION = 'Image segmentation models with pre-trained backbones with Keras.'
 URL = 'https://github.com/qubvel/segmentation_models'
 EMAIL = 'qubvel@gmail.com'
 AUTHOR = 'Pavel Yakubovskiy'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.5.2'
 VERSION = None
 
 # What packages are required for this module to be executed?
